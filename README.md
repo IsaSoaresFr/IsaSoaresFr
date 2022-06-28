@@ -1,5 +1,4 @@
-## Oiê 💜
-
+## Oiê💜
 
 <div align="center">
   <a href="https://github.com/IsaSoaresFr">
@@ -9,7 +8,7 @@
 
 
 ## Ferramentas 🧰
-
+<br>
 <img align="center"  alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 <img align="center"  alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
  <img align="center"  alt="trello" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">	
@@ -17,7 +16,8 @@
 <img align="center"  alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 
-## Tecnologias 🛸
+## Tecnologias 🛸 
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
