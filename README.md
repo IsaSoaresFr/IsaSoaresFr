@@ -26,7 +26,8 @@
 <img align="center"  alt="React" height="30" width="40" src= https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg>
 </div>
 
-
+<br>
+<br>
 
 ## Rede Social 💻
 <div>
