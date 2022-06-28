@@ -27,7 +27,6 @@
 </div>
 
 <br>
-<br>
 
 ## Rede Social 💻
 <div>
